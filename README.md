@@ -9,6 +9,8 @@ To help in counteracting the mentioned issues and allow fundamental studies with
 
 We start from the popular Labeled Faces in the Wild (LFW) database, to which we apply the different modifications, generating 8 datasets, each one containing one particular modification. Each dataset contains 4,324 images of size 64 x 64, with a total of 34,592 images. The use of a public and widely employed face dataset allows for replication and comparison. We also include the original (unfiltered) images to allow other researchers to incorporate new filters of their choice, or to train different image reconstruction methods.
 
+![sample_images_filters](https://user-images.githubusercontent.com/6042693/157897137-d9f55f12-70a0-4af0-8de6-b8666520e1f7.png)
+
 # Usage
   - Download the compressed files (13 in total) and uncompress them
   - **Please cite reference 1) below in your publications if you make use of the data of this repository**
