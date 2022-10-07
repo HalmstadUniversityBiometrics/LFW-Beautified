@@ -19,7 +19,7 @@ We start from the popular Labeled Faces in the Wild (LFW) database, to which we 
   - [Fernando Alonso-Fernandez](http://wiki.hh.se/caisr/index.php/Fernando_Alonso-Fernandez)  (contact person).
 
 # References
-  1) Hedman, P., Skepetzis, V., Hernandez-Diaz, K., Bigun, J., Alonso-Fernandez, F., "On the Effect of Selfie Beautification Filters on Face Detection and Recognition" [https://arxiv.org/abs/2110.08934]()
+  1) Hedman, P., Skepetzis, V., Hernandez-Diaz, K., Bigun, J., Alonso-Fernandez, F., "On the Effect of Selfie Beautification Filters on Face Detection and Recognition", Pattern Recognition Letters, 2022 [https://doi.org/10.1016/j.patrec.2022.09.018]
   2) Hedman, P., Skepetzis, V., The Effect of Beautification Filters on Image Recognition: "Are filtered social media images viable Open Source Intelligence?" Master Thesis at Halmstad University, Sweden (Master’s Programme in Network Forensics) [http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-44799](http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-44799)
   
 <a href="https://zenodo.org/badge/latestdoi/468794479"><img src="https://zenodo.org/badge/468794479.svg" alt="DOI"></a>
